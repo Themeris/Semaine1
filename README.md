@@ -9,19 +9,17 @@ j'aime l'informatique les jeux de société et le cinéma.
 
 ##Expercience professionnelle
 
-* Electricien
+* _Electricien_
 
- `* Cablages réseaux`
+ 1.Cablages réseaux
  
- `* Cablages téléphoniques`
+ 2.Cablages téléphoniques
  
- `* Tableaux électriques`
- 
- `* Une sous-puce`
+ 3.Tableaux électriques
 
-* Magasinier
+* _Magasinier_
 
-* Diffuseur de presse
+* _Diffuseur de presse_
 
 
 ##Formations
