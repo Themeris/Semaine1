@@ -9,7 +9,7 @@ j'aime l'informatique les jeux de société et le cinéma.
 
 ##Expercience professionnelle
 
-* _Electricien_
+* Electricien
 
  1.Cablages réseaux
  
@@ -17,9 +17,9 @@ j'aime l'informatique les jeux de société et le cinéma.
  
  3.Tableaux électriques
 
-* _Magasinier_
+* Magasinier
 
-* _Diffuseur de presse_
+* Diffuseur de presse
 
 
 ##Formations
