@@ -12,7 +12,9 @@ j'aime l'informatique les jeux de société et le cinéma.
 * Electricien
 
  `* Cablages réseaux`
+ 
  `* Cablages téléphoniques`
+ 
  `* Tableaux électriques`
 
 * Magasinier
