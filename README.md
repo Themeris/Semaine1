@@ -16,6 +16,8 @@ j'aime l'informatique les jeux de société et le cinéma.
  `* Cablages téléphoniques`
  
  `* Tableaux électriques`
+ 
+ `* Une sous-puce`
 
 * Magasinier
 
